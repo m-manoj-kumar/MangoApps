@@ -1,0 +1,24 @@
+{
+    "loginPage": {
+        "userName": "[name='user_id']",
+        "passWord": "[name='password']",
+        "loginButton": "button.loginBtn"
+    },
+    "homePage": {
+        "loginNotification": "#permissions_toaster > span",
+        "universalCompose": "[title='Universal compose box']",
+        "updateButton": "[header-title=\"Share An Update With Your Teams\"]",
+        "toElement": "#token-input-myTeams",
+        "toDropDown": ".token-input-dropdown-facebook > ul > li > img",
+        "updateText": "#project_status_update_team",
+        "attachButton": "a.attachLinkonDialog",
+        "uploadFile": "#file_upload #fileupload",
+        "uploadDone": "#btn_file_upload > span > span",
+        "fileName": "span.filename",
+        "share": "#ms-feed-btn .loading_text",
+        "toaster": "#postSuccessMsg",
+        "unreadyTab": "[title='Unread']",
+        "primaryTab": "[title='Primary']",
+        "editableMessage": ".editableMessage > .non-translated-text"
+    }
+}

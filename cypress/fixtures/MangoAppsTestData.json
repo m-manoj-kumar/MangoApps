@@ -1,0 +1,9 @@
+{
+	"siteUrl": "https://siddasia.mangoapps.com/",
+	"userName": "maassignment@yopmail.com",
+	"password": "temp123",
+	"homePage": "https://siddasia.mangoapps.com/ce/pulse/user/home",
+	"updateText": "This the is the update text for the assignment for mangoapps",
+	"filePath": "sample.pdf",
+	"toasterMessage": "Message posted successfully to Assignment 1"
+}
